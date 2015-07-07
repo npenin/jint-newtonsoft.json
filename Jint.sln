@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jint.Tests", "Jint.Tests\Jint.Tests.csproj", "{37C7D4E0-8770-4E2A-8B6D-E53087868354}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jint.NewtonsoftWrapper", "Jint.NewtonsoftWrapper\Jint.NewtonsoftWrapper.csproj", "{D6D4E0DC-D74D-42D3-A604-D30DAF116792}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37C7D4E0-8770-4E2A-8B6D-E53087868354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37C7D4E0-8770-4E2A-8B6D-E53087868354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37C7D4E0-8770-4E2A-8B6D-E53087868354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37C7D4E0-8770-4E2A-8B6D-E53087868354}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6D4E0DC-D74D-42D3-A604-D30DAF116792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6D4E0DC-D74D-42D3-A604-D30DAF116792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6D4E0DC-D74D-42D3-A604-D30DAF116792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6D4E0DC-D74D-42D3-A604-D30DAF116792}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
